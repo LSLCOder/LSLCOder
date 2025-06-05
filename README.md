@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a passionate and flexible full-stack developer who loves coding, building innovative web and mobile apps, and leveraging AI to optimize solutions. I thrive on solving challenges with a creative mindset and hands-on approach. Whether it’s collaborating with a team, diving into a solo project, or integrating AI-driven features, I bring a vibe of enthusiasm and adaptability to the table.
 
+![Profile Views](https://komarev.com/ghpvc/?username=LSLCOderE&color=green)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lsl.laguidao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lawrence-laguidao/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lslaguidaolegend24@gmail.com) 
